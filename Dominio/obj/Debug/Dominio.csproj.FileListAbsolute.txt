@@ -1,0 +1,6 @@
+C:\Users\ariel\OneDrive\Escritorio\Examen Desarollo TACTICASOFT\TacticaSoftPruebaTecnica\Dominio\bin\Debug\Dominio.dll
+C:\Users\ariel\OneDrive\Escritorio\Examen Desarollo TACTICASOFT\TacticaSoftPruebaTecnica\Dominio\bin\Debug\Dominio.pdb
+C:\Users\ariel\OneDrive\Escritorio\Examen Desarollo TACTICASOFT\TacticaSoftPruebaTecnica\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Examen Desarollo TACTICASOFT\TacticaSoftPruebaTecnica\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Examen Desarollo TACTICASOFT\TacticaSoftPruebaTecnica\Dominio\obj\Debug\Dominio.dll
+C:\Users\ariel\OneDrive\Escritorio\Examen Desarollo TACTICASOFT\TacticaSoftPruebaTecnica\Dominio\obj\Debug\Dominio.pdb
